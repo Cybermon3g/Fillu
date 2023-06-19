@@ -21,7 +21,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
 
-PICS = (environ.get('PICS','https://te.legra.ph/file/2e7268b5124255eecf028.jpg
+PICS = (environ.get('PICS', 'https://te.legra.ph/file/2e7268b5124255eecf028.jpg
 
 
 
