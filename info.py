@@ -21,7 +21,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
 
-PICS = (environ.get('PICS',"https://te.legra.ph/file/2e7268b5124255eecf028.jpg") 
+PICS = (environ.get('PICS',"https://te.legra.ph/file/2e7268b5124255eecf028.jpg https://te.legra.ph/file/2b5a661fc8c6aa87efb31.jpg https://te.legra.ph/file/a411609408e84b85f89bd.jpg https://te.legra.ph/file/ed6b67cc8e41e88db9487.jpg https://te.legra.ph/file/b8d4933371cb014d95829.jpg https://te.legra.ph/file/3d211f22706e6c72ba162.jpg https://te.legra.ph/file/a16acda31c6cd94ea2d0e.jpg https://te.legra.ph/file/280095767ce4f05a88bbb.jpg https://te.legra.ph/file/dcbf9b6109188585e59bf.jpg https://te.legra.ph/file/84fe32c7d0d7a5c530a84.jpg https://te.legra.ph/file/1ddcca050c437dbc1492e.jpg https://te.legra.ph/file/426781d7bed0c10232e2c.jpg https://te.legra.ph/file/7b50a75ec034c0e270e5e.jpg https://te.legra.ph/file/223d671807ab95c9b6074.jpg https://te.legra.ph/file/9eddd9caed27a139ae32e.jpg https://te.legra.ph/file/8336bccb81fbd0f8a67c1.jpg https://te.legra.ph/file/78609e147535c3e91f450.jpg https://te.legra.ph/file/d19ba01e39cf82d47256b.jpg https://te.legra.ph/file/1c335282ae7032fcf1e7e.jpg ") 
 
 
 
